@@ -27,6 +27,7 @@ This **Stopwatch Web Application** allows users to accurately track time interva
 ├── time.html       # The main HTML file containing the structure of the app
 
 ├── style.css        # The CSS file containing styles and responsiveness
+
 └── script.js        # The JavaScript file with logic for stopwatch functionality
 
 
