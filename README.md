@@ -24,7 +24,8 @@ This **Stopwatch Web Application** allows users to accurately track time interva
 
 
 
-├── index.html       # The main HTML file containing the structure of the app
+├── time.html       # The main HTML file containing the structure of the app
+
 ├── style.css        # The CSS file containing styles and responsiveness
 └── script.js        # The JavaScript file with logic for stopwatch functionality
 
@@ -35,26 +36,6 @@ This **Stopwatch Web Application** allows users to accurately track time interva
 2. **Pause**: Click the yellow "Pause" button to stop/pause the stopwatch.
 3. **Reset**: Click the red "Reset" button to reset the stopwatch to `00:00:00`.
 4. **Lap**: Click the blue "Lap" button to record lap times, which will be displayed under the "Lap Times" section.
-
-## Installation
-
-1. Clone the repository or download the project files.
-
-```bash
-git clone https://github.com/yourusername/stopwatch-app.git
-```
-
-2. Navigate to the project directory.
-
-```bash
-cd stopwatch-app
-```
-
-3. Open the `index.html` file in your browser to run the stopwatch.
-
-## Live Demo
-
-If you want to see the stopwatch in action, you can check out the live version of this app [here](#).
 
 
 ## Future Improvements
